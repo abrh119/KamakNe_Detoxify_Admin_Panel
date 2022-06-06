@@ -1,3 +1,13 @@
+# KamakNe Admin Panel
+## This Admin is created to view the saved comments that are passed to the hate speech detection BERT model through the [KamakNe Social Media Web App](https://github.com/abrh119/KamakNe_Social_Web_App), all the comments are saved in mongoDB, so in order to run this, there are 3 major requirements
+
+### 1: [The KamakNe Social Web App](https://github.com/abrh119/KamakNe_Social_Web_App)
+### 2: [The BERT API(THE HATE SPEECH MODEL)](https://github.com/abrh119/BERT_API)
+### 3: Connect all the necessary URLS and end points in the files
+
+
+===================================================================================================
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
