@@ -17,7 +17,7 @@ module.exports = {
     return config
   },
   env: {
-    MONGO_URI: 'mongodb+srv://{username}:{password}@cluster0.z9i4w.mongodb.net/{docname}?retryWrites=true&w=majority',
+    MONGO_URI:,
     PORT: 3004,
     BASEURL: "http://localhost:3000"
   } //url for image upload to cloudinary. First copy "API base url" from Cloudinary. Then paste it here.
